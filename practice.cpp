@@ -4,6 +4,7 @@ int main()
 {
 <<<<<<< HEAD
     int a=30;
+    cout<<"billion";
 
     cout<<"My name is prachi";
     cout<<"enter your age";
