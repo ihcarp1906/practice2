@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int a=5;
+    int a=15;
     cout<<"My name is prachi";
     cout<<"enter your age";
     cout<<"bbye";
