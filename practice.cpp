@@ -2,7 +2,9 @@
 #include<conio.h>
 int main()
 {
+<<<<<<< HEAD
     int a=30;
+
     cout<<"My name is prachi";
     cout<<"enter your age";
     cout<<"bbye";
